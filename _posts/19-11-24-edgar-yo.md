@@ -15,9 +15,6 @@ image:
 # Bienvenidos al Blog de Edgar Díaz Martínez 🌐
 #### Estudiante de Administración de Sistemas Informáticos en Red (ASIR)
 
-<figure>
-<img src='/assets/img/45050.jpg'>
-</figure>
 
 
 ---
