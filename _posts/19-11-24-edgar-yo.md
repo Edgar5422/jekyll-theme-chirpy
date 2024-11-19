@@ -3,7 +3,8 @@ layout: post
 title: "Algo sobre mi"
 date: 2024-11-05
 categories: [Cultura, documentacion]
-
+image:
+  path: /commons/45050.jpg
 ---
 
 
@@ -13,6 +14,7 @@ categories: [Cultura, documentacion]
 <figure>
 <img src='/assets/img/45050.jpg'>
 </figure>
+
 
 ---
 
